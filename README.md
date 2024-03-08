@@ -1,0 +1,3 @@
+Welcome to my portfolio. This is the first website I ever created. I had never taken computer science class in my high school let alone coding classes. Everything I accomplished on this website is with the knowledge I gained from my seniors and online coding resources. I am glad everything is available online and I can learn a lot of things even without going to school. 
+I am a person who is driven by aesthetics and my color is Lavender, so, you will see a lot of lavender in all of my projects. I will make more changes to it in upcoming future, but for now, its everything I learned online!
+Thank you.
